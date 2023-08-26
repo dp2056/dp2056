@@ -14,7 +14,7 @@ Certifications: CFA Level 1 (Candidate), Bloomberg Market Concepts, C++ Programm
 🏫 Education
 
 Master of Financial Engineering, UCLA Anderson School of Management
-Expected December 2024 | GRE: 325/340
+/nExpected December 2024 | GRE: 325/340
 BSc., Global Finance and Business Economics, Fordham Gabelli School of Business
 Graduated May 2023 | GPA: 3.85
 🏆 Awards: Dean’s List (All semesters)
